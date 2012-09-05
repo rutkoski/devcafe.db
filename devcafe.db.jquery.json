@@ -1,0 +1,31 @@
+{
+  "name": "devcafe.db",
+  "title": "DevCafé DB",
+  "description": "Database and SQL utilities.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rutkoski/devcafe.db",
+  "author": {
+    "name": "Rodrigo Rutkoski Rodrigues",
+    "email": "rutkoski@gmail.com",
+    "url": "rutkoski.wordpress.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rutkoski/devcafe.db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rutkoski/devcafe.db/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/oem/devcafe.db/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/oem/devcafe.db/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {},
+  "keywords": []
+}
